@@ -15,7 +15,7 @@ export const posts: Post[] = [
     id: "hello-world",
     title: "Привет, мир! Начало большого пути",
     date: "2025-01-15",
-    author: "Алексей",
+    author: "Сергей",
     authorAvatar: "👨‍💻",
     coverImage: "https://image.qwenlm.ai/generated-images/391fba91-57aa-4826-8a67-cd822245e76d/_result.png",
     excerpt: "Каждое большое путешествие начинается с первого шага. Этот блог — мой первый шаг в мир веб-разработки и самовыражения.",
