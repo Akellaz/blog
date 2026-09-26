@@ -17,7 +17,7 @@ export const posts: Post[] = [
     date: "2025-04-10",
     author: "Сергей",
     authorAvatar: "👨‍💻",
-    coverImage: "https://image.qwenlm.ai/generated-images/b8bbed3f-e42e-435b-819b-18b6b52ed2b4/_result.png",
+    coverImage: "https://picsum.photos/seed/firebase/900/500",
     excerpt: "История о том, как мы превратили локальный музыкальный билдер в облачное приложение с авторизацией, Firestore и умным кэшированием. Спойлер: было сложно, но круто.",
     tags: ["разработка", "firebase", "рефакторинг", "история"],
     content: `
@@ -109,7 +109,7 @@ Firestore категорически отказывался принимать �
     date: "2025-01-15",
     author: "Сергей",
     authorAvatar: "👨‍💻",
-    coverImage: "https://image.qwenlm.ai/generated-images/391fba91-57aa-4826-8a67-cd822245e76d/_result.png",
+    coverImage: "https://picsum.photos/seed/hello/900/500",
     excerpt: "Каждое большое путешествие начинается с первого шага. Этот блог — мой первый шаг в мир веб-разработки и самовыражения.",
     tags: ["блог", "начало", "веб"],
     content: `
@@ -136,7 +136,7 @@ Firestore категорически отказывался принимать �
     date: "2025-02-03",
     author: "Сергей",
     authorAvatar: "👨‍💻",
-    coverImage: "https://image.qwenlm.ai/generated-images/5424ccb2-2814-4dad-b8f6-0113a750f356/_result.png",
+    coverImage: "https://picsum.photos/seed/design/900/500",
     excerpt: "Минимализм, 3D-элементы, микроанимации и искусственный интеллект — разбираемся, что будет определять дизайн в новом году.",
     tags: ["дизайн", "тренды", "UI/UX"],
     content: `
@@ -171,7 +171,7 @@ Firestore категорически отказывался принимать �
     date: "2025-02-20",
     author: "Сергей",
     authorAvatar: "👨‍💻",
-    coverImage: "https://image.qwenlm.ai/generated-images/296a85d1-c6f3-45d1-b659-0059454f23ed/_result.png",
+    coverImage: "https://picsum.photos/seed/creative/900/500",
     excerpt: "Как превратить строки кода в визуальные шедевры? Погружаемся в мир генеративного искусства и интерактивных инсталляций.",
     tags: ["код", "арт", "творчество"],
     content: `
@@ -219,7 +219,7 @@ function draw() {
     date: "2025-03-10",
     author: "Сергей",
     authorAvatar: "👨‍💻",
-    coverImage: "https://image.qwenlm.ai/generated-images/69a607f6-1fc4-40d1-91de-1005d33dd4c2/_result.png",
+    coverImage: "https://picsum.photos/seed/cozy/900/500",
     excerpt: "Как организовать пространство, чтобы работать с удовольствием? Растения, свет, эргономика и маленькие радости.",
     tags: ["продуктивность", "лайфстайл", "рабочее место"],
     content: `
@@ -256,7 +256,7 @@ function draw() {
     date: "2025-03-25",
     author: "Сергей",
     authorAvatar: "👨‍💻",
-    coverImage: "https://image.qwenlm.ai/generated-images/245af1f8-3b44-48a0-ab9b-8e612effdcc5/_result.png",
+    coverImage: "https://picsum.photos/seed/future/900/500",
     excerpt: "Веб меняется быстрее, чем когда-либо. Разбираемся, какие технологии определят интернет следующего десятилетия.",
     tags: ["технологии", "web", "будущее"],
     content: `
